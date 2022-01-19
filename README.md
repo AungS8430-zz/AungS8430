@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Discord.js bot
 - 🌱 I’m currently learning Node.js
 - 🤔 I’m looking for help with Discord.js and Mongoose
-- 💬 Ask me about Python
+- 💬 Ask me about Python, Discord.py, Pycord
 - 📫 How to reach me: Aung.S#8430 (Discord)
 
 [![Discord Profile](https://discord.c99.nl/widget/theme-4/877190769159589988.png)](https://discord.com/users/877190769159589988)

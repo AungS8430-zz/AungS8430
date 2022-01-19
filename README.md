@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Discord.js and Mongoose
 - 💬 Ask me about Python
 - 📫 How to reach me: Aung.S#8430 (Discord)
-[![Discord Profile](https://discord.c99.nl/widget/theme-5/877190769159589988.png)](https://discord.com/users/877190769159589988)
+[![Discord Profile](https://discord.c99.nl/widget/theme-4/877190769159589988.png)](https://discord.com/users/877190769159589988)
 - 😄 Pronouns: He, Him
 - ⚡ Fun fact: Never gonna give you up!

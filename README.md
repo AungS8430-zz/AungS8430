@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=AungS8430&no-bg=true&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="AungS8430"/></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AungS8430&show_icons=true&locale=en&layout=compact&theme=tokyonight " alt="AungS8430" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ninelel&show_icons=true&locale=en&theme=tokyonight " alt="ninelel" />
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ninelel&show_icons=true&locale=en&theme=tokyonight " alt="AungS8430" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AungS8430&theme=tokyonight" alt="AungS8430" /></p>
 
 ![Metrics](https://metrics.lecoq.io/AungS8430?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FBangkok)

@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-
-**AungS8430/AungS8430** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Discord.js bot
 - 🌱 I’m currently learning Node.js
 - 🤔 I’m looking for help with Discord.js and Mongoose

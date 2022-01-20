@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+My name is Aungkung, you can also call me
+```
+      --       _    _    __    __   _____          _____
+     /  \     / \  / \  |   \ | |  /  ____\       / ____|
+    / /\ \    | |  | |  | |\ \| |  | | ____      |  |___
+   /  --  \   | |_ | |  | | \   |  | |   | |  _   ____| |
+  / /    \ \   \____/   |_|  \__|  \______/  |_| |______/
+```
+
 - 🔭 I’m currently working on Discord.js bot
 - 🌱 I’m currently learning Node.js
 - 🤔 I’m looking for help with Discord.js and Mongoose
